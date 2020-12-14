@@ -20,5 +20,5 @@ Poprzez zwiększenie maksymalnej liczby naciśnięć lub dodatnie opcji resety n
 
 W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
 Rozwinięcie funkcji millis pozwoli na wykonanie większej ilościu poleceń oraz więcej parametrów.
-
+.
 
