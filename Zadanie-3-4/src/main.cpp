@@ -9,7 +9,7 @@ int main(void) {
   sei();
 
   while(1) {
-
+  Serial.println(1)
   }
 }
 
